@@ -2,6 +2,9 @@ Vendor Performance Analysis
 This project provides a comprehensive analysis of vendor performance using historical procurement and delivery data. It aims to help organizations make data-driven decisions to identify high-performing vendors, flag underperformers, and improve supply chain efficiency.
 
 📊 Project Overview
+
+https://www.kaggle.com/code/kaifkhan123/vender-performance-analysis
+
 The analysis includes:
 Data cleaning and preprocessing
 Exploratory Data Analysis (EDA)
